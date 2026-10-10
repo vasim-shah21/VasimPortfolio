@@ -23,4 +23,3 @@ Microtek College of Management & Technology, Varanasi
 | Database | MySQL, DBMS |
 | Tools | Visual Studio Code, GitHub |
 | Core CS concepts | OOP, Computer Networks, Operating Systems |
-|
